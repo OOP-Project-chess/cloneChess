@@ -1,0 +1,3 @@
+/Users/junseok/CLionProjects/chess_console/source/build/CMakeFiles/chess.dir
+/Users/junseok/CLionProjects/chess_console/source/build/CMakeFiles/edit_cache.dir
+/Users/junseok/CLionProjects/chess_console/source/build/CMakeFiles/rebuild_cache.dir
